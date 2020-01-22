@@ -8,3 +8,4 @@ function user(firstname,lastname,age,salary)
 
 var user1 =new user('John','Smith',24,10000);
 console.log(user1);
+
